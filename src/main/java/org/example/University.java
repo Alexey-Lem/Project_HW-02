@@ -7,7 +7,8 @@ public class University {
     int yearOfFoundation;
     StudyProfile mainProfile;
 
-
+    public University() {
+    }
 
     public University(String id, String fullName, String shortName, int yearOfFoundation, StudyProfile mainProfile) {
         this.id = id;
@@ -16,6 +17,7 @@ public class University {
         this.yearOfFoundation = yearOfFoundation;
         this.mainProfile = mainProfile;
     }
+
 
     public String getId() {
         return id;
@@ -65,6 +67,6 @@ public class University {
     @Override
     public String toString() {
         return "Идентификатор: "+ id +",\tПолное название: " + fullName+ "\tСокр.название: " + shortName +
-                ",\tКол-во лет обучения: "+ yearOfFoundation + ",\tНаправление: " + getMainProfile();
+                ",\tДата основания: "+ yearOfFoundation + ",\tНаправление: " + getMainProfile();
     }
 }

@@ -6,6 +6,9 @@ public class Student {
     int currentCourseNumber;
     float avgExamScore;
 
+    public Student() {
+    }
+
     public Student(String fullName, String universityId, int currentCourseNumber, float avgExamScore) {
         this.fullName = fullName;
         this.universityId = universityId;
