@@ -37,8 +37,8 @@ public class Excel_Input {
 
         List<Student> students = new ArrayList<>();
 
-        FileInputStream inputStream = new FileInputStream(filePath);
-        XSSFWorkbook wrkb = new XSSFWorkbook(inputStream);
+        FileInputStream input = new FileInputStream(filePath);
+        XSSFWorkbook wrkb = new XSSFWorkbook(input);
         XSSFSheet sheet = wrkb.getSheet("Студенты");
 
         Iterator<Row> rw = sheet.iterator();

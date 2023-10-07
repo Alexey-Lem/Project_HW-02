@@ -82,3 +82,33 @@
 [INFO ] 2023-10-07 22:13:44.415 [main] Main - Полное имя: Алексеев С. В.,	Личный номер: 0001-high,	Номер курса: 1,	Средний балл : 5.0
 [INFO ] 2023-10-07 22:13:44.415 [main] Main - Полное имя: Иванов А. Г.,	Личный номер: 0001-high,	Номер курса: 3,	Средний балл : 4.8
 [INFO ] 2023-10-07 22:13:44.415 [main] Main - Полное имя: Васильев В. П.,	Личный номер: 0001-high,	Номер курса: 4,	Средний балл : 4.7
+[DEBUG] 2023-10-07 22:29:56.300 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-10-07 22:29:56.304 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2023-10-07 22:29:56.305 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2023-10-07 22:29:56.306 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2023-10-07 22:29:56.530 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2023-10-07 22:29:56.530 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2023-10-07 22:29:56.587 [main] Main - Идентификатор: 0001-high,	Полное название: Московский Выдуманный Университет	Сокр.название: МВУ,	Дата основания: 1990,	Направление: Экономика
+[INFO ] 2023-10-07 22:29:56.587 [main] Main - Идентификатор: 0002-high,	Полное название: Московский  Институт Экономики	Сокр.название: МИЭ,	Дата основания: 1987,	Направление: Экономика
+[INFO ] 2023-10-07 22:29:56.587 [main] Main - Идентификатор: 0003-high,	Полное название: Московский Государственный Медицинский Университет	Сокр.название: МГМУ,	Дата основания: 1960,	Направление: Медицина
+[INFO ] 2023-10-07 22:29:56.587 [main] Main - Идентификатор: 0004-high,	Полное название: Тамбовский Университет Медицины	Сокр.название: ТУМ,	Дата основания: 1995,	Направление: Медицина
+[INFO ] 2023-10-07 22:29:56.587 [main] Main - Идентификатор: 0005-high,	Полное название: Самарский Медицинский Институт	Сокр.название: СМИ,	Дата основания: 1936,	Направление: Медицина
+[INFO ] 2023-10-07 22:29:56.587 [main] Main - Идентификатор: 0006-high,	Полное название: Воронежский Финансовый Университет	Сокр.название: ВФУ,	Дата основания: 2003,	Направление: Финансы
+[INFO ] 2023-10-07 22:29:56.587 [main] Main - Идентификатор: 0007-high,	Полное название: Казанский Технический Университет	Сокр.название: КТУ,	Дата основания: 1989,	Направление: Инженерия
+[DEBUG] 2023-10-07 22:29:56.594 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-10-07 22:29:56.595 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2023-10-07 22:29:56.596 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2023-10-07 22:29:56.596 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2023-10-07 22:29:56.604 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2023-10-07 22:29:56.604 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2023-10-07 22:29:56.619 [main] Main - Полное имя: Иванов И. А.,	Личный номер: 0002-high,	Номер курса: 2,	Средний балл : 4.0
+[INFO ] 2023-10-07 22:29:56.619 [main] Main - Полное имя: Козлов М. В.,	Личный номер: 0002-high,	Номер курса: 2,	Средний балл : 4.6
+[INFO ] 2023-10-07 22:29:56.620 [main] Main - Полное имя: Фёдоров А. И.,	Личный номер: 0002-high,	Номер курса: 3,	Средний балл : 4.2
+[INFO ] 2023-10-07 22:29:56.620 [main] Main - Полное имя: Игнатьев М. М.,	Личный номер: 0003-high,	Номер курса: 4,	Средний балл : 4.3
+[INFO ] 2023-10-07 22:29:56.620 [main] Main - Полное имя: Соколов В. В.,	Личный номер: 0004-high,	Номер курса: 1,	Средний балл : 4.8
+[INFO ] 2023-10-07 22:29:56.620 [main] Main - Полное имя: Сидоров Е. Г.,	Личный номер: 0004-high,	Номер курса: 2,	Средний балл : 3.9
+[INFO ] 2023-10-07 22:29:56.620 [main] Main - Полное имя: Витальев В. А.,	Личный номер: 0001-high,	Номер курса: 2,	Средний балл : 4.0
+[INFO ] 2023-10-07 22:29:56.620 [main] Main - Полное имя: Петров П. А.,	Личный номер: 0001-high,	Номер курса: 1,	Средний балл : 5.0
+[INFO ] 2023-10-07 22:29:56.620 [main] Main - Полное имя: Алексеев С. В.,	Личный номер: 0001-high,	Номер курса: 1,	Средний балл : 5.0
+[INFO ] 2023-10-07 22:29:56.620 [main] Main - Полное имя: Иванов А. Г.,	Личный номер: 0001-high,	Номер курса: 3,	Средний балл : 4.8
+[INFO ] 2023-10-07 22:29:56.620 [main] Main - Полное имя: Васильев В. П.,	Личный номер: 0001-high,	Номер курса: 4,	Средний балл : 4.7
