@@ -20,8 +20,7 @@ public class Main {
 
         try {
             List<University> univer = Excel_Input.readExcelUnivers("src/main/resources/universityInfo.xlsx");
-            UniverComparator univerComp =
-                    UtilClass.getUniverComparator(UniverEnum.fullName);
+            UniverComparator univerComp = UtilClass.getUniverComparator(UniverEnum.fullName);
             univer.stream()
                     .sorted(univerComp)
                     .forEach(System.out::println);
@@ -37,8 +36,7 @@ public class Main {
 
         try {
             List<Student> std = Excel_Input.readExcelStds("src/main/resources/universityInfo.xlsx");
-            StudentComparator studentComp =
-                    UtilClass.getStudentComparator(StudentEnum.fullName);
+            StudentComparator studentComp = UtilClass.getStudentComparator(StudentEnum.fullName);
             std.stream()
                     .sorted(studentComp)
                     .forEach(System.out::println);
