@@ -1,114 +1,48 @@
-[DEBUG] 2023-10-07 21:46:11.917 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-[DEBUG] 2023-10-07 21:46:11.922 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-[DEBUG] 2023-10-07 21:46:11.924 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
-[DEBUG] 2023-10-07 21:46:11.925 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-[DEBUG] 2023-10-07 21:46:12.183 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-[DEBUG] 2023-10-07 21:46:12.184 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-[DEBUG] 2023-10-07 21:51:05.604 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-[DEBUG] 2023-10-07 21:51:05.609 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-[DEBUG] 2023-10-07 21:51:05.610 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
-[DEBUG] 2023-10-07 21:51:05.611 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-[DEBUG] 2023-10-07 21:51:05.859 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-[DEBUG] 2023-10-07 21:51:05.860 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-[DEBUG] 2023-10-07 21:54:09.263 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-[DEBUG] 2023-10-07 21:54:09.268 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-[DEBUG] 2023-10-07 21:54:09.270 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
-[DEBUG] 2023-10-07 21:54:09.271 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-[DEBUG] 2023-10-07 21:54:09.517 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-[DEBUG] 2023-10-07 21:54:09.518 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-[DEBUG] 2023-10-07 21:59:05.474 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-[DEBUG] 2023-10-07 21:59:05.479 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-[DEBUG] 2023-10-07 21:59:05.480 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
-[DEBUG] 2023-10-07 21:59:05.481 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-[DEBUG] 2023-10-07 21:59:05.726 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-[DEBUG] 2023-10-07 21:59:05.726 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-[DEBUG] 2023-10-07 21:59:05.793 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-[DEBUG] 2023-10-07 21:59:05.794 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-[DEBUG] 2023-10-07 21:59:05.795 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
-[DEBUG] 2023-10-07 21:59:05.796 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-[DEBUG] 2023-10-07 21:59:05.804 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-[DEBUG] 2023-10-07 21:59:05.804 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-[DEBUG] 2023-10-07 22:01:10.790 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-[DEBUG] 2023-10-07 22:01:10.944 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-[DEBUG] 2023-10-07 22:01:11.008 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
-[DEBUG] 2023-10-07 22:01:11.073 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-[DEBUG] 2023-10-07 22:01:29.781 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-[DEBUG] 2023-10-07 22:01:29.795 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-[DEBUG] 2023-10-07 22:06:51.755 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-[DEBUG] 2023-10-07 22:06:51.847 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-[DEBUG] 2023-10-07 22:06:51.912 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
-[DEBUG] 2023-10-07 22:06:51.979 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-[DEBUG] 2023-10-07 22:06:52.976 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-[DEBUG] 2023-10-07 22:06:52.990 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-[DEBUG] 2023-10-07 22:08:24.163 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-[DEBUG] 2023-10-07 22:08:24.168 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-[DEBUG] 2023-10-07 22:08:24.169 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
-[DEBUG] 2023-10-07 22:08:24.170 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-[DEBUG] 2023-10-07 22:08:24.401 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-[DEBUG] 2023-10-07 22:08:24.402 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-[DEBUG] 2023-10-07 22:08:24.467 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-[DEBUG] 2023-10-07 22:08:24.467 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-[DEBUG] 2023-10-07 22:08:24.468 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
-[DEBUG] 2023-10-07 22:08:24.468 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-[DEBUG] 2023-10-07 22:08:24.476 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-[DEBUG] 2023-10-07 22:08:24.476 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-[DEBUG] 2023-10-07 22:13:44.089 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-[DEBUG] 2023-10-07 22:13:44.092 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-[DEBUG] 2023-10-07 22:13:44.093 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
-[DEBUG] 2023-10-07 22:13:44.094 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-[DEBUG] 2023-10-07 22:13:44.322 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-[DEBUG] 2023-10-07 22:13:44.322 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-[INFO ] 2023-10-07 22:13:44.380 [main] Main - Идентификатор: 0001-high,	Полное название: Московский Выдуманный Университет	Сокр.название: МВУ,	Дата основания: 1990,	Направление: Экономика
-[INFO ] 2023-10-07 22:13:44.380 [main] Main - Идентификатор: 0002-high,	Полное название: Московский  Институт Экономики	Сокр.название: МИЭ,	Дата основания: 1987,	Направление: Экономика
-[INFO ] 2023-10-07 22:13:44.380 [main] Main - Идентификатор: 0003-high,	Полное название: Московский Государственный Медицинский Университет	Сокр.название: МГМУ,	Дата основания: 1960,	Направление: Медицина
-[INFO ] 2023-10-07 22:13:44.380 [main] Main - Идентификатор: 0004-high,	Полное название: Тамбовский Университет Медицины	Сокр.название: ТУМ,	Дата основания: 1995,	Направление: Медицина
-[INFO ] 2023-10-07 22:13:44.380 [main] Main - Идентификатор: 0005-high,	Полное название: Самарский Медицинский Институт	Сокр.название: СМИ,	Дата основания: 1936,	Направление: Медицина
-[INFO ] 2023-10-07 22:13:44.381 [main] Main - Идентификатор: 0006-high,	Полное название: Воронежский Финансовый Университет	Сокр.название: ВФУ,	Дата основания: 2003,	Направление: Финансы
-[INFO ] 2023-10-07 22:13:44.381 [main] Main - Идентификатор: 0007-high,	Полное название: Казанский Технический Университет	Сокр.название: КТУ,	Дата основания: 1989,	Направление: Инженерия
-[DEBUG] 2023-10-07 22:13:44.388 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-[DEBUG] 2023-10-07 22:13:44.389 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-[DEBUG] 2023-10-07 22:13:44.389 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
-[DEBUG] 2023-10-07 22:13:44.390 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-[DEBUG] 2023-10-07 22:13:44.398 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-[DEBUG] 2023-10-07 22:13:44.398 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-[INFO ] 2023-10-07 22:13:44.414 [main] Main - Полное имя: Иванов И. А.,	Личный номер: 0002-high,	Номер курса: 2,	Средний балл : 4.0
-[INFO ] 2023-10-07 22:13:44.414 [main] Main - Полное имя: Козлов М. В.,	Личный номер: 0002-high,	Номер курса: 2,	Средний балл : 4.6
-[INFO ] 2023-10-07 22:13:44.414 [main] Main - Полное имя: Фёдоров А. И.,	Личный номер: 0002-high,	Номер курса: 3,	Средний балл : 4.2
-[INFO ] 2023-10-07 22:13:44.414 [main] Main - Полное имя: Игнатьев М. М.,	Личный номер: 0003-high,	Номер курса: 4,	Средний балл : 4.3
-[INFO ] 2023-10-07 22:13:44.414 [main] Main - Полное имя: Соколов В. В.,	Личный номер: 0004-high,	Номер курса: 1,	Средний балл : 4.8
-[INFO ] 2023-10-07 22:13:44.414 [main] Main - Полное имя: Сидоров Е. Г.,	Личный номер: 0004-high,	Номер курса: 2,	Средний балл : 3.9
-[INFO ] 2023-10-07 22:13:44.415 [main] Main - Полное имя: Витальев В. А.,	Личный номер: 0001-high,	Номер курса: 2,	Средний балл : 4.0
-[INFO ] 2023-10-07 22:13:44.415 [main] Main - Полное имя: Петров П. А.,	Личный номер: 0001-high,	Номер курса: 1,	Средний балл : 5.0
-[INFO ] 2023-10-07 22:13:44.415 [main] Main - Полное имя: Алексеев С. В.,	Личный номер: 0001-high,	Номер курса: 1,	Средний балл : 5.0
-[INFO ] 2023-10-07 22:13:44.415 [main] Main - Полное имя: Иванов А. Г.,	Личный номер: 0001-high,	Номер курса: 3,	Средний балл : 4.8
-[INFO ] 2023-10-07 22:13:44.415 [main] Main - Полное имя: Васильев В. П.,	Личный номер: 0001-high,	Номер курса: 4,	Средний балл : 4.7
-[DEBUG] 2023-10-07 22:29:56.300 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-[DEBUG] 2023-10-07 22:29:56.304 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-[DEBUG] 2023-10-07 22:29:56.305 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
-[DEBUG] 2023-10-07 22:29:56.306 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-[DEBUG] 2023-10-07 22:29:56.530 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-[DEBUG] 2023-10-07 22:29:56.530 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-[INFO ] 2023-10-07 22:29:56.587 [main] Main - Идентификатор: 0001-high,	Полное название: Московский Выдуманный Университет	Сокр.название: МВУ,	Дата основания: 1990,	Направление: Экономика
-[INFO ] 2023-10-07 22:29:56.587 [main] Main - Идентификатор: 0002-high,	Полное название: Московский  Институт Экономики	Сокр.название: МИЭ,	Дата основания: 1987,	Направление: Экономика
-[INFO ] 2023-10-07 22:29:56.587 [main] Main - Идентификатор: 0003-high,	Полное название: Московский Государственный Медицинский Университет	Сокр.название: МГМУ,	Дата основания: 1960,	Направление: Медицина
-[INFO ] 2023-10-07 22:29:56.587 [main] Main - Идентификатор: 0004-high,	Полное название: Тамбовский Университет Медицины	Сокр.название: ТУМ,	Дата основания: 1995,	Направление: Медицина
-[INFO ] 2023-10-07 22:29:56.587 [main] Main - Идентификатор: 0005-high,	Полное название: Самарский Медицинский Институт	Сокр.название: СМИ,	Дата основания: 1936,	Направление: Медицина
-[INFO ] 2023-10-07 22:29:56.587 [main] Main - Идентификатор: 0006-high,	Полное название: Воронежский Финансовый Университет	Сокр.название: ВФУ,	Дата основания: 2003,	Направление: Финансы
-[INFO ] 2023-10-07 22:29:56.587 [main] Main - Идентификатор: 0007-high,	Полное название: Казанский Технический Университет	Сокр.название: КТУ,	Дата основания: 1989,	Направление: Инженерия
-[DEBUG] 2023-10-07 22:29:56.594 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-[DEBUG] 2023-10-07 22:29:56.595 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-[DEBUG] 2023-10-07 22:29:56.596 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
-[DEBUG] 2023-10-07 22:29:56.596 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-[DEBUG] 2023-10-07 22:29:56.604 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-[DEBUG] 2023-10-07 22:29:56.604 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-[INFO ] 2023-10-07 22:29:56.619 [main] Main - Полное имя: Иванов И. А.,	Личный номер: 0002-high,	Номер курса: 2,	Средний балл : 4.0
-[INFO ] 2023-10-07 22:29:56.619 [main] Main - Полное имя: Козлов М. В.,	Личный номер: 0002-high,	Номер курса: 2,	Средний балл : 4.6
-[INFO ] 2023-10-07 22:29:56.620 [main] Main - Полное имя: Фёдоров А. И.,	Личный номер: 0002-high,	Номер курса: 3,	Средний балл : 4.2
-[INFO ] 2023-10-07 22:29:56.620 [main] Main - Полное имя: Игнатьев М. М.,	Личный номер: 0003-high,	Номер курса: 4,	Средний балл : 4.3
-[INFO ] 2023-10-07 22:29:56.620 [main] Main - Полное имя: Соколов В. В.,	Личный номер: 0004-high,	Номер курса: 1,	Средний балл : 4.8
-[INFO ] 2023-10-07 22:29:56.620 [main] Main - Полное имя: Сидоров Е. Г.,	Личный номер: 0004-high,	Номер курса: 2,	Средний балл : 3.9
-[INFO ] 2023-10-07 22:29:56.620 [main] Main - Полное имя: Витальев В. А.,	Личный номер: 0001-high,	Номер курса: 2,	Средний балл : 4.0
-[INFO ] 2023-10-07 22:29:56.620 [main] Main - Полное имя: Петров П. А.,	Личный номер: 0001-high,	Номер курса: 1,	Средний балл : 5.0
-[INFO ] 2023-10-07 22:29:56.620 [main] Main - Полное имя: Алексеев С. В.,	Личный номер: 0001-high,	Номер курса: 1,	Средний балл : 5.0
-[INFO ] 2023-10-07 22:29:56.620 [main] Main - Полное имя: Иванов А. Г.,	Личный номер: 0001-high,	Номер курса: 3,	Средний балл : 4.8
-[INFO ] 2023-10-07 22:29:56.620 [main] Main - Полное имя: Васильев В. П.,	Личный номер: 0001-high,	Номер курса: 4,	Средний балл : 4.7
+[DEBUG] 2023-10-08 17:13:02.148 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-10-08 17:13:02.153 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2023-10-08 17:13:02.154 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2023-10-08 17:13:02.155 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2023-10-08 17:13:02.388 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2023-10-08 17:13:02.389 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2023-10-08 17:13:02.458 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-10-08 17:13:02.459 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2023-10-08 17:13:02.460 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2023-10-08 17:13:02.460 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2023-10-08 17:13:02.469 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2023-10-08 17:13:02.469 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2023-10-08 17:14:47.408 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-10-08 17:14:47.413 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2023-10-08 17:14:47.413 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2023-10-08 17:14:47.414 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2023-10-08 17:14:47.653 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2023-10-08 17:14:47.653 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2023-10-08 17:14:47.725 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-10-08 17:14:47.726 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2023-10-08 17:14:47.726 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2023-10-08 17:14:47.727 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2023-10-08 17:14:47.736 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2023-10-08 17:14:47.736 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2023-10-08 17:15:26.193 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-10-08 17:15:26.197 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2023-10-08 17:15:26.198 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2023-10-08 17:15:26.199 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2023-10-08 17:15:26.433 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2023-10-08 17:15:26.433 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2023-10-08 17:15:26.503 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-10-08 17:15:26.504 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2023-10-08 17:15:26.505 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2023-10-08 17:15:26.505 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2023-10-08 17:15:26.513 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2023-10-08 17:15:26.513 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2023-10-08 17:32:52.103 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-10-08 17:32:52.107 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2023-10-08 17:32:52.109 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2023-10-08 17:32:52.109 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2023-10-08 17:32:52.338 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2023-10-08 17:32:52.338 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2023-10-08 17:32:52.409 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-10-08 17:32:52.410 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2023-10-08 17:32:52.410 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2023-10-08 17:32:52.411 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2023-10-08 17:32:52.420 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2023-10-08 17:32:52.420 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings

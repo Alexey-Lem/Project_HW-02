@@ -55,6 +55,6 @@ public class Student {
     @Override
     public String toString() {
         return "Полное имя: " + fullName + ",\tЛичный номер: " + universityId
-                + ",\tНомер курса: " + currentCourseNumber + ",\tСредний балл : " + avgExamScore;
+                + ",\tНомер курса: " + currentCourseNumber + ",  \tСредний балл: " + avgExamScore;
     }
 }
