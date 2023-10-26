@@ -1,4 +1,4 @@
-package org.example;
+package Enums;
 
 public enum StudentEnum {
     fullName,

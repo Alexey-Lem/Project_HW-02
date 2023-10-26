@@ -4,8 +4,8 @@ import org.apache.poi.ss.usermodel.*;
 import org.apache.poi.xssf.usermodel.*;
 import java.io.*;
 import java.util.*;
-public class Excel_Input {
-    private Excel_Input() {
+public class XlsInput {
+    private XlsInput() {
     }
 
     public static List<University> readExcelUnivers(String filePath) throws IOException {
