@@ -1,7 +1,6 @@
-package Comparators;
+package comparators;
 
 import org.apache.commons.lang3.StringUtils;
-import org.example.StudyProfile;
 import org.example.University;
 
 public class UniverMainProfileComparator implements UniverComparator {

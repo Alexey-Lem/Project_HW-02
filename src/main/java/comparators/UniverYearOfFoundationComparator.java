@@ -1,9 +1,6 @@
-package Comparators;
+package comparators;
 
 import org.example.University;
-
-import java.util.Comparator;
-import java.util.function.Function;
 
 public class UniverYearOfFoundationComparator implements UniverComparator {
     @Override

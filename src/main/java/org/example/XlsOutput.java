@@ -11,10 +11,14 @@ import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 import java.io.FileOutputStream;
 import java.io.IOException;
 import java.util.List;
+import java.util.logging.Level;
+import java.util.logging.Logger;
 
 public class XlsOutput {
-
+    private static final Logger logger = Logger.getLogger(XlsOutput.class.getName());
     public static void TableGenerator(List<Statistics> statList, String path) throws IOException {
+
+        logger.log(Level.INFO, "Excel writing started");
 
         XSSFWorkbook wrkb = new XSSFWorkbook();
         XSSFSheet statisticsSheet = wrkb.createSheet("Статистика");
@@ -70,6 +74,10 @@ public class XlsOutput {
 
         try (FileOutputStream outputStream = new FileOutputStream(path)) {
             wrkb.write(outputStream);
+        }catch (IOException e) {
+            logger.log(Level.SEVERE, "New excel file writing failed", e);
+            return;
         }
+        logger.log(Level.INFO, "Excel writing finished successfully");
     }
 }

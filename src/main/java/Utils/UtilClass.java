@@ -1,9 +1,9 @@
 package Utils;
 
-import Comparators.*;
-import Comparators.StudentUniversityIdComparator;
-import Enums.StudentEnum;
-import Enums.UniverEnum;
+import comparators.*;
+import comparators.StudentUniversityIdComparator;
+import enums.StudentEnum;
+import enums.UniverEnum;
 
 public class UtilClass {
     public UtilClass() {
