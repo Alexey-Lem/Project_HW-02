@@ -3,7 +3,7 @@ package Utils;
 import org.apache.commons.lang3.StringUtils;
 import org.example.Statistics;
 import org.example.Student;
-import org.example.StudyProfile;
+import enums.StudyProfile;
 import org.example.University;
 
 import java.math.*;

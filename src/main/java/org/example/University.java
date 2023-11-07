@@ -1,6 +1,7 @@
 package org.example;
 
 import com.google.gson.annotations.SerializedName;
+import enums.StudyProfile;
 
 public class University {
     @SerializedName("universityId")
